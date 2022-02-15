@@ -1,0 +1,27 @@
+{
+  "name": "socialize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ealisa818/Socialize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ealisa818/Socialize/issues"
+  },
+  "homepage": "https://github.com/ealisa818/Socialize#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.16.1"
+  }
+}

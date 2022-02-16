@@ -1,7 +1,7 @@
 const req = require('express/lib/request');
 const { thought, user } = require('../models');
-const thoughtsSchema = require('../models/thought');
-const { post } = require('../models/thought');
+const thoughtsSchema = require('../models/Thought');
+const { post } = require('../models/Thought');
 const User = require('../models/User');
 
 // geting thoughts
